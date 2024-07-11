@@ -1,0 +1,5 @@
+Questão 1 - Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos, de tipagem dinâmica e forte. O que cada uma dessas características significa?
+
+R. Significa que python é uma linguagem que possui facilidade de ser lida pelos programadores, exibindo apenas o que será usado na lógica de programação, sendo executada por uma IDE, onde compila
+linha por linha, facilitando a depuração. Possuindo a orientação ao objeto, o python pode possuir classes, metodos ou objetos, podendo ser criada uma cadeia de caracteristica definadas pelo usuário
+em sua preferencia, possuindo tipagem dinamica, onde é facultativa a declaração de variáveis.

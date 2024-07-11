@@ -1,0 +1,25 @@
+Questão 2 - Fale sobre as funções input(), print() e o método format(). Além disso, dê exemplo dos principais tipos primitivos de dados em Python.
+
+    R. "input()" é utilizda para captar dados vindos do teclado do usuário para uma variável criada, ex:
+
+        nome = input("Digite seu nome:)
+
+    Já o "print()" é utilzado para exibir strings como informações, ex:
+
+        print("Eu sou o número quatro!")
+
+    O método "format()" é utilizado para formatar strings com variáveis e facilitar a leitura, ex:
+
+        nome = "José"
+        idade = 22
+
+        mensagem = "Nome: {}", Idade: {}".format(nome, idade)
+
+        print(mensagem)
+    
+    Os tipos primitivos são:
+        -int (Inteiros)]
+        -float (Números decimais)
+        -str (Sequência de caracteres em aspas simples ou duplas)
+        -bool (True ou False)
+        -none (Nenhum tipo)

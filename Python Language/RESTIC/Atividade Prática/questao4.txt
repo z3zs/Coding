@@ -1,0 +1,11 @@
+Questão 4 - Quais são os operadores matemáticos usados em Python? Dê exemplos.
+
+R. 
+    Adição (+)
+    Subtração (-)
+    Multiplicação (*)
+    Divisão (/)
+    Divisão Inteira (//)
+    Módulo (%)
+    Exponenciação (**)
+    Negação (#)
